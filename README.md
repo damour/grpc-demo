@@ -1,5 +1,7 @@
 This is helloworld example for testing grpc backward compatibility in golang. 
 
+[![video](https://img.youtube.com/vi/hfUGLy2kSs0/0.jpg)](https://www.youtube.com/watch?v=hfUGLy2kSs0)
+
 Changes:
 
 - response changed to stream
